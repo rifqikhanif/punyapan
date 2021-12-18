@@ -75,7 +75,6 @@
     "warn": "^1.0.1",
     "xmldom": "^0.5.0",
     "yargs": "^16.2.0",
-    "yt-search": "^2.7.6"
   },
   "nodemonConfig": {
     "ignore": [
